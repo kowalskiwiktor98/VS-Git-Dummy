@@ -11,6 +11,7 @@ namespace VS_Git_Dummy
         static void Main(string[] args)
         {
             Console.WriteLine("Branch Test");
+	    Console.WriteLine("Branch dev commit");
         }
     }
 }
